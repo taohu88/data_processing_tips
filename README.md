@@ -7,3 +7,6 @@
 
 # shuffle lines of file
 * shuf -n 1000 file
+
+# Random sample large file
+* http://metadatascience.com/2014/02/27/random-sampling-from-very-large-files/
