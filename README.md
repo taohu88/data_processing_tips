@@ -2,5 +2,5 @@
 
 * awk '{ if (($5 - 13) % 20 == 0) print}' InFile.tsv > OutFile_test.tsv
 
-# sort and unqie
+# sort and uniq
 * cut -f1 inFile.tsv | sort | uniq -c | sort -n > $2.txt
