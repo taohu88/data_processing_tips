@@ -1,3 +1,6 @@
+# cut head line
+* tail -n +2 Infile.tsv > outFile.tsv
+
 # Simple split data by field value
 * awk '{ if (($6 - 13) % 20 == 0) print}' InFile.tsv > OutFile_test.tsv
 
