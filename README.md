@@ -1,4 +1,4 @@
-# cut head line
+# Cut head line
 * tail -n +2 Infile.tsv > outFile.tsv
 
 # Simple split data by field value
