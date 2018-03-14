@@ -1,3 +1,7 @@
+# Windows subsystem
+* LxRunOffline.exe  install -nUbuntu -f e:\temp\16.04.2-server-cloudimg-amd64-root.tar.gz -de:\Ubuntu -re:\local\root
+* LxRunOffline.exe run -nUbuntu
+
 # Cut head line
 * tail -n +2 Infile.tsv > outFile.tsv
 
