@@ -1,5 +1,5 @@
 # Read whole files
-<pre
+```python
 with open('data.txt', 'r') as myfile:
   data = myfile.read()
---/>
+```
