@@ -3,5 +3,8 @@
 
 # Jupyter config
 ```
-%config IPCompleter.greedy=True 
+%config IPCompleter.greedy=True
+%matplotlib notebook
+import matplotlib.pyplot as plt
+import numpy as np
 ```
